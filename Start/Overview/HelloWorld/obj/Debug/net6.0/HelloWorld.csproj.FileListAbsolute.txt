@@ -1,0 +1,15 @@
+/Users/josephlamantia/VSCode/BHG Learning/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/josephlamantia/VSCode/BHG Learning/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/josephlamantia/VSCode/BHG Learning/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/josephlamantia/VSCode/BHG Learning/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/josephlamantia/VSCode/BHG Learning/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/josephlamantia/VSCode/BHG Learning/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/josephlamantia/VSCode/BHG Learning/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephlamantia/VSCode/BHG Learning/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/josephlamantia/VSCode/BHG Learning/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/josephlamantia/VSCode/BHG Learning/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/josephlamantia/VSCode/BHG Learning/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/josephlamantia/VSCode/BHG Learning/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/josephlamantia/VSCode/BHG Learning/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/josephlamantia/VSCode/BHG Learning/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/josephlamantia/VSCode/BHG Learning/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
